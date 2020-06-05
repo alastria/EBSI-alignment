@@ -1,4 +1,4 @@
-# Alignment with EBSI v1
+# EBSI v1 alignment
 Information required for tracking alignment of Alastria (AlastriaID and other core components) with EBSI version 1.
 
 ## ESSIF (European Self Sovereign Identity Framework) APIs
